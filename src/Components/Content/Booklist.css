@@ -15,11 +15,61 @@
     margin: 20px 0;
     color: #0f1111;
     font-size: 24px;
-    padding-left: 30px;
+    padding-left: 48px;
 }
 
-.book-list {
+.booklist {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+}
+
+.book {
+    width: 300px;
+    border: 1px solid #ddd;
+    padding: 40px 20px 8px 15px;
+    position: relative;
+    cursor: pointer;
+}
+
+.order {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #c45500;
+    color: #fff;
+    font-size: 14px;
+    padding: 4px 8px;
+}
+
+.img-container {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.img-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.title {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 10px;
+    color: #007185;
+
+}
+
+.author {
+    font-size: 12px;
+    line-height: 16px;
+    color: #007185;
+}
+
+.price {
+    color: #b12704;
+    font-size: 14px;
+    line-height: 20px;
 }
