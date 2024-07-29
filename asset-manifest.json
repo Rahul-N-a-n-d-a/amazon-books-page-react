@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amazon-books-page-react/static/css/main.dc479914.css",
+    "main.js": "/amazon-books-page-react/static/js/main.b8e7ceac.js",
+    "index.html": "/amazon-books-page-react/index.html",
+    "main.dc479914.css.map": "/amazon-books-page-react/static/css/main.dc479914.css.map",
+    "main.b8e7ceac.js.map": "/amazon-books-page-react/static/js/main.b8e7ceac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc479914.css",
+    "static/js/main.b8e7ceac.js"
+  ]
+}
